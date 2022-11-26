@@ -23,10 +23,3 @@ Mini Capstone project at FPT University.
 
 ## Preview images
 
-![Source code](https://github.com/SE151251/hello-world-1632/blob/main/images/Intro1.PNG)
-
-### © SWP391 - SE1632 - Group 5:
-- Nguyễn Hồ Tiến Đạt - SE151251
-- Nguyễn Trọng Nguyên - SE151227
-- Lê Minh Thiện - SE151226
-- Nguyễn Hữu Giàu - SE150014
