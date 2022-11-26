@@ -21,5 +21,4 @@ Mini Capstone project at FPT University.
   - `JDBC` - A Java API to connect and execute the query with the database
   - `MS SQL` - A relational database management system developed by Microsoft
 
-## Preview images
 
